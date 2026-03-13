@@ -53,7 +53,7 @@
   <br>
   <div>
     <a href="https://github.com/Terrarizer03/DnD-Creator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terrarizer03&repo=DnD-Creator&theme=react&border_radius=10" />
+      <img src="" />
     </a>
     <a href="https://github.com/Terrarizer03/ColorShift">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terrarizer03&repo=ColorShift&theme=react&border_radius=10" />
