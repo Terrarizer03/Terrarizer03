@@ -52,8 +52,8 @@
   </h1>
   <br>
   <div>
-    <a href="https://github.com/Terrarizer03/SessionZero">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terrarizer03&repo=SessionZero&theme=react&border_radius=10" />
+    <a href="https://github.com/Terrarizer03/Session-0">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terrarizer03&repo=Session-0&theme=react&border_radius=10" />
     </a>
     <a href="https://github.com/Terrarizer03/ColorShift">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terrarizer03&repo=ColorShift&theme=react&border_radius=10" />
